@@ -1,6 +1,6 @@
 [![Yamdb_final workflow](https://github.com/ShivaZoid/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)](https://github.com/ShivaZoid/yamdb_final/actions)
 
-# Для Ревью: ip сервера < 130.193.40.223 >, login: <bzm>, password: <bzm>
+# Для Ревью: ip сервера < 130.193.40.223 >, login: < bzm >, password: < bzm >
 
 # API_YAMDB
 
@@ -50,7 +50,7 @@ USER - login
 SSH_KEY - cat ~/.ssh/id_rsa
 
 DOCKER HUB:
-DOCKER_USERNAME 
+DOCKER_USERNAME
 DOCKER_PASSWORD
 
 PASSPHRASE
