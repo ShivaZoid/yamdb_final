@@ -1,7 +1,3 @@
-[![Yamdb_final workflow](https://github.com/ShivaZoid/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)](https://github.com/ShivaZoid/yamdb_final/actions)
-
-# Для Ревью: ip сервера < 130.193.40.223 >, login: < bzm >, password: < bzm >
-
 # API_YAMDB
 
 ### REST API проект для сервиса YaMDb — сбор отзывов пользователей на произведения.
